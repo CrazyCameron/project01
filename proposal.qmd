@@ -8,7 +8,13 @@ editor: visual
 
 Your proposal should include:
 
-* A brief description of your dataset including its provenance, dimensions, etc. (Make sure to load the data and use inline code for some of this information.)
-* The reason why you chose this dataset.
-* The two questions you want to answer.
-  + A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
+-   A brief description of your dataset including its provenance, dimensions, etc. (Make sure to load the data and use inline code for some of this information.)
+-   The reason why you chose this dataset.
+-   The two questions you want to answer.
+    -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any)
+
+Our dataset, titled "Jobs and Salaries in Data Science", contains information about individuals' salary, job title, location, etc. The dimension of our data is
+
+The data comes from <https://ai-jobs.net/salaries/2023/>
+
+We chose this data because we are all interested in careers in data science and we are curious (a) the relationships between potential predictor variables and salary, (b) we are curious about the breakdown of specific job titles by location, age, experience-level, work setting, etc., and (c) we are curious about how the supply pf data science jobs and equilibrium salaries of data science employees have changed over time
